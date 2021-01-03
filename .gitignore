@@ -1,0 +1,11 @@
+.env
+.netlify
+deploy
+public/
+resources/
+node_modules/
+
+# Assets (e.g. Custom CSS) is built automatically.
+# https://www.axiomtheme.com/docs/extending/#custom-css
+# git update-index --skip-worktree assets/*
+assets/
