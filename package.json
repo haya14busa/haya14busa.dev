@@ -8,8 +8,8 @@
   "repository": "github:haya14busa/haya14busa.dev.git",
   "license": "CC-BY-SA-4.0",
   "scripts": {
-    "hugo:prd": "hugo -e production -v --i18n-warnings --minify --gc --cleanDestinationDir",
-    "hugo:dev": "hugo -e development --config config.toml,config.dev.toml -v --i18n-warnings --gc --cleanDestinationDir --buildDrafts --buildFuture",
+    "hugo:prd": "npm run assets:prd && hugo -e production -v --i18n-warnings --minify --gc --cleanDestinationDir",
+    "hugo:dev": "npm run assets:dev && hugo -e development --config config.toml,config.dev.toml -v --i18n-warnings --gc --cleanDestinationDir --buildDrafts --buildFuture",
     "hugo:srv": "hugo server --bind 0.0.0.0 -e development --config config.toml,config.dev.toml -v --i18n-warnings --buildDrafts --buildFuture --disableFastRender",
     "assets:prd": "NODE_ENV=production npm run css && npm run js",
     "assets:dev": "NODE_ENV=development npm run css && npm run js",
