@@ -6,6 +6,7 @@ title = "{{ replace .TranslationBaseName "-" " " | title }}"
 subtitle = ""
 feature = ""
 tags = []
+toc = true
 slug = '{{ .File.BaseFileName }}'
 draft = true
 +++
