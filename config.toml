@@ -46,7 +46,7 @@ footer = ["twitter", "github"]
 enable = ["twitter"]
 
 [params.services]
-googleAnalyticsId = ""
+googleAnalyticsId = "G-FEFZ0XN6N8"
 googleTagManagerId = "G-FEFZ0XN6N8"
 googleAdsId = ""
 googleAdsenseId = ""
