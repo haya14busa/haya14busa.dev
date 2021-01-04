@@ -47,7 +47,7 @@ enable = ["twitter"]
 
 [params.services]
 googleAnalyticsId = ""
-googleTagManagerId = ""
+googleTagManagerId = "G-FEFZ0XN6N8"
 googleAdsId = ""
 googleAdsenseId = ""
 googleAdsenseAdSlotId = ""
