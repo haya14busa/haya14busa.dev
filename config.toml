@@ -40,7 +40,8 @@ pinterest = "https://www.pinterest.com/user"
 stackoverflow = "https://stackoverflow.com/users/user"
 twitter = "https://twitter.com/__haya14busa__"
 youtube = "https://www.youtube.com/user"
-footer = ["twitter", "github"]
+atom-feed = "/feed.atom"
+footer = ["twitter", "github", "atom-feed"]
 
 [params.share]
 enable = ["twitter"]
