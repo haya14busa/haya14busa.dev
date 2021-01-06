@@ -5,7 +5,7 @@ author = "default"
 title = "My First Post"
 subtitle = ""
 feature = ""
-tags = ['haya14busa.dev', 'blog', 'hugo']
+tags = ['haya14busa.dev', 'hugo', 'netlify', 'github-discussions', 'reviewdog']
 toc = true
 slug = 'my-first-post'
 draft = true
@@ -17,7 +17,6 @@ draft = true
 TBD
 
 ## Technology Stacks
-
 - Hugo
 - Netlify
 
@@ -26,6 +25,15 @@ TBD
 
 ### Hugo Theme: Axiom+
 TBD
+- Sticky Table Of Contents
+  - Note that it's not sticky from mobile, though.
+- #tags at the top of a post
+- Share buttons possition: from top to the bottom of a post.
+  - Because I'd like you to read the post before sharing it :)
+  - Also, added author's social links (Twitter and GitHub) at the top of a post.
+- Suggest Edits on GitHub
+- TODO: Discussions on GitHub
+- Atom Feed Icon
 
 ### Hosting service: Netlify
 TBD
@@ -35,7 +43,7 @@ TBD
 ### Automated proofreading with reviewdog
 TBD
 
-### Discuss a post on GitHub Discussions
+### Experimental: Discuss a post on GitHub Discussions
 TBD
 
 https://github.com/haya14busa/haya14busa.dev

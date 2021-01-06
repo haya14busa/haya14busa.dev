@@ -162,6 +162,15 @@ Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the ses
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
 
+## Other custom markdown syntax
+- This is ~~strike through~~.
+- Linkify: https://haya14busa.dev
+
+Task list
+- [ ] Task 1
+- [x] Task 2
+- [ ] Task 3
+
 ## loooooooong long long long long long long long long long long long long header
 
 this is loooooooong header
