@@ -26,6 +26,7 @@ disableThemeAttribution = true
 # Go Reference time: Mon Jan 2 15:04:05 MST 2006
 dateFormat = "Jan 2, 2006 3:04PM"
 highlight = "dark"
+contentEditBaseURL = "https://github.com/haya14busa/haya14busa.dev/blob/master/content/"
 
 [params.brand]
 domain = "haya14busa.dev"
