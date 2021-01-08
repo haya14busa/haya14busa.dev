@@ -27,6 +27,7 @@ disableThemeAttribution = true
 dateFormat = "Jan 2, 2006 3:04PM"
 highlight = "dark"
 contentEditBaseURL = "https://github.com/haya14busa/haya14busa.dev/blob/master/content/"
+discussionDefaultURL = "https://github.com/haya14busa/haya14busa.dev/discussions/categories/posts"
 
 [params.brand]
 domain = "haya14busa.dev"
