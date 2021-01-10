@@ -9,7 +9,7 @@ tags = ['haya14busa.dev', 'hugo', 'netlify', 'github-discussions']
 toc = true
 slug = 'my-first-post'
 discussion = 'https://github.com/haya14busa/haya14busa.dev/discussions/5'
-draft = true
+draft = false
 +++
 
 ## Built my shiny personal blog! :sparkles:
