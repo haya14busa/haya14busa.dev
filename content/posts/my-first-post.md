@@ -1,6 +1,6 @@
 +++
-date = 2021-01-10T11:00:00Z
-lastmod = 2021-01-10T11:00:00Z
+date = 2021-01-10T11:00:00+09:00
+lastmod = 2021-01-10T11:00:00+09:00
 author = "default"
 title = "Built my static tech blog site using Hugo, Netlify, and GitHub"
 subtitle = "My first post in this blog and why and how I built it"
@@ -9,7 +9,6 @@ tags = ['haya14busa.dev', 'hugo', 'netlify', 'github-discussions']
 toc = true
 slug = 'my-first-post'
 discussion = 'https://github.com/haya14busa/haya14busa.dev/discussions/5'
-draft = false
 +++
 
 ## Built my shiny personal blog! :sparkles:
